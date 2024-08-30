@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/a7ee6fa1-bf2e-49d0-9ab8-c575a07b28b1)
+
 
 <!--
 **ArchiLCode/ArchiLCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
